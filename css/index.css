@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    background-image: url("../src/bg_white 사본.jpg");
+    background-repeat: repeat-y;
+    background-size: 100%;
+}
+
+#site_name {
+    color: green;
+    letter-spacing: 95%;
+    font-style: normal;
+    font-weight: 100;
+    font-family: 'Futura', 'Arial Narrow', Arial, sans-serif;
+    font-size: 200%;
+    padding: 150px;
+    line-height: 250%
+}
